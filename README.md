@@ -10,7 +10,7 @@
 
 APM2000 is a digital particle detection sensor designed based on the principle of laser scattering, which can detect particle concentration in real time. APM2000 can test particles with a particle size range of 0.3~10um, provide multiple different digital output interfaces, and have self calibration function when turned on. It has good stability, small size, and is easy to integrate.
 
-LibDriver APM2000 is a full-featured driver of APM2000 launched by LibDriver.It provides the function of PM1.0, PM2.5, PM10 reading and other functions. LibDriver is MISRA compliant.
+LibDriver APM2000 is a full-featured driver for APM2000, launched by LibDriver.It provides PM1.0, PM2.5, PM10 reading and additional features. LibDriver is MISRA compliant.
 
 ### Table of Contents
 

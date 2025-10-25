@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['temperature_5fmax_94',['temperature_max',['../structapm2000__info__s.html#a3366a5dce9b829e03c3d321c2b4df3f6',1,'apm2000_info_s']]],
-  ['temperature_5fmax_95',['TEMPERATURE_MAX',['../driver__apm2000_8c.html#a90c0b20d54005712fcc8cb01281360e9',1,'driver_apm2000.c']]],
-  ['temperature_5fmin_96',['temperature_min',['../structapm2000__info__s.html#a8f9dbe66ac0b66ebae0a36fcb4ba368e',1,'apm2000_info_s']]],
-  ['temperature_5fmin_97',['TEMPERATURE_MIN',['../driver__apm2000_8c.html#aab353db5bf4eb787f86a2080f609a551',1,'driver_apm2000.c']]]
+  ['pm10_5fug_5fm3_0',['pm10_ug_m3',['../structapm2000__pm__s.html#a0757c3f44ce1d4b5fb53c9890c72f928',1,'apm2000_pm_s']]],
+  ['pm1p0_5fug_5fm3_1',['pm1p0_ug_m3',['../structapm2000__pm__s.html#ac00ded7f5bf4a79bc4f34939457c45af',1,'apm2000_pm_s']]],
+  ['pm2p5_5fug_5fm3_2',['pm2p5_ug_m3',['../structapm2000__pm__s.html#aa078ad68b65ab8a69e63b00b3ff98ca2',1,'apm2000_pm_s']]]
 ];
